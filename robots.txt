@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aralyst.github.io/sitemap.aralyst.gz
+Sitemap: https://aralyst.github.io/app/sitemap.aralyst.gz
+Sitemap: https://aralyst.github.io/assets/sitemap.aralyst.gz
+Sitemap: https://aralyst.github.io/css/sitemap.aralyst.gz
+Sitemap: https://aralyst.github.io/data/sitemap.aralyst.gz
+Sitemap: https://aralyst.github.io/includes/sitemap.aralyst.gz
+Sitemap: https://aralyst.github.io/item/sitemap.aralyst.gz
+Sitemap: https://aralyst.github.io/src/sitemap.aralyst.gz
